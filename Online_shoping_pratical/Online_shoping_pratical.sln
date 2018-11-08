@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Online_shoping_pratical", "..\..\WebSites\Online_shoping_pratical\", "{A7E79524-C8A2-43E8-8130-A7BA0A04CFA6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{12C3F4E8-E52D-42C1-B076-4BAF1A69D170}|DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Online_shoping_pratical"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Online_shoping_pratical\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Online_shoping_pratical\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Online_shoping_pratical"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Online_shoping_pratical\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Online_shoping_pratical\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2851"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{12C3F4E8-E52D-42C1-B076-4BAF1A69D170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E79524-C8A2-43E8-8130-A7BA0A04CFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E79524-C8A2-43E8-8130-A7BA0A04CFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E79524-C8A2-43E8-8130-A7BA0A04CFA6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E79524-C8A2-43E8-8130-A7BA0A04CFA6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{12C3F4E8-E52D-42C1-B076-4BAF1A69D170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C3F4E8-E52D-42C1-B076-4BAF1A69D170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C3F4E8-E52D-42C1-B076-4BAF1A69D170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C3F4E8-E52D-42C1-B076-4BAF1A69D170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

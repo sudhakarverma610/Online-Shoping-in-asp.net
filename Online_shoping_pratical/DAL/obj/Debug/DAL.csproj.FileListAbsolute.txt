@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Online_shoping_pratical\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Online_shoping_pratical\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Online_shoping_pratical\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Online_shoping_pratical\DAL\obj\Debug\DAL.pdb
